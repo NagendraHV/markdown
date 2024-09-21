@@ -1,12 +1,20 @@
 # markdown
-from one to another by clicking a file in the tree.
+# Heading 1
+bout StackEdit, you can rHi! I'm your first Markdown file in **StackEdit**. If you want to learn aboutead me. If you want to play with __Markdown__, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner oHi! I'm your first Markdown file in ***StackEdit***. If you want to learn af the navigation bar. Press `Enter`
+Markdown has the following feature:
+1. step a
+   1.  step b
+   2.  step c
+2. step d
 
-## Rename a file
+Name | Place | Profession
+---- | ---- | ----
+Saina | Hyderabad | Badminton
+Neeraj | Haryana | Javelin
+Virat | Delhi | *Cricket*
 
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
-
-## Delete a file
-
+[TWT](https://techwriterstribe.com)
+[Go To](/Synchronization/)
 You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
 
 ## Export a file
