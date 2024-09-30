@@ -3,10 +3,10 @@
 
 ## TOC
 1.[Overview of AWS Cloud](https://github.com/NagendraHV/markdown/blob/main/QSG_2_Nagendra.md#overview-of-aws-cloud)
-2.[Setting up AWS account]()
- - [Create a new account]()
- - [Sign in to your AWS account]()
-	
+2. [Setting up AWS account](https://github.com/NagendraHV/markdown/blob/main/QSG_2_Nagendra.md#setting-up-aws-account)
+ - [Create a new account](https://github.com/NagendraHV/markdown/blob/main/QSG_2_Nagendra.md#create-a-new-account)
+ - [Sign in to your AWS account](https://github.com/NagendraHV/markdown/blob/main/QSG_2_Nagendra.md#sign-in-to-your-aws-account)
+ - 
 ## Overview of AWS Cloud
 
 **Amazon Web Services** (AWS) is the leading cloud computing platform and it provides over 200 cloud services like computing, storage, database, etc. It is suitable for start-ups and large enterprises and is secure and cost-effective as you only need to pay as you use the services.
