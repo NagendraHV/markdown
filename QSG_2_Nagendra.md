@@ -3,7 +3,7 @@
 
 ## TOC
 1.[Overview of AWS Cloud](https://github.com/NagendraHV/markdown/blob/main/QSG_2_Nagendra.md#overview-of-aws-cloud)
-2. [Setting up AWS account]()
+2.[Setting up AWS account]()
  - [Create a new account]()
  - [Sign in to your AWS account]()
 	
