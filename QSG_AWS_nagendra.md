@@ -15,7 +15,7 @@
 
 **AWS** provides services for many kinds of products and it is popular for its services like computing, database, storage, application development, analytics, game development, security, etc. **AWS** offers you free trials for many of its product services after you sign in to **AWS**.
 
-![AWS](https://github.com/NagendraHV/markdown/blob/f165b436150e0fd52bebda64fe846aeea8c85187/images/graphoc.png)
+![AWS](images/graphoc.png)
 
 
 **Popular featured services of AWS**
