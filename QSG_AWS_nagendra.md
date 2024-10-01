@@ -3,10 +3,10 @@
 ![AWS](https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg)
 
 ## TOC
-[Overview of AWS Cloud](https://github.com/NagendraHV/markdown/blob/main/QSG_2_Nagendra.md#overview-of-aws-cloud)
-[Getting started with AWS](https://github.com/NagendraHV/markdown/blob/main/QSG_2_Nagendra.md#getting-started-with-aws)
- - [Create a new account](https://github.com/NagendraHV/markdown/blob/main/QSG_2_Nagendra.md#create-a-new-account)
- - [Sign in to your AWS console](https://github.com/NagendraHV/markdown/blob/main/QSG_2_Nagendra.md#sign-in-to-your-aws-console)
+[Overview of AWS Cloud](https://github.com/NagendraHV/markdown/edit/main/QSG_AWS_nagendra.md#overview-of-aws-cloud)
+[Getting started with AWS](https://github.com/NagendraHV/markdown/edit/main/QSG_AWS_nagendra.md#getting-started-with-aws)
+* [Create a new account](https://github.com/NagendraHV/markdown/edit/main/QSG_AWS_nagendra.md#create-a-new-account)
+* [Sign in to your AWS console](https://github.com/NagendraHV/markdown/edit/main/QSG_AWS_nagendra.md#sign-in-to-your-aws-console)	
 	
 ## Overview of AWS Cloud
 
