@@ -15,7 +15,7 @@
 
 **AWS** provides services for many kinds of products and it is popular for its services like computing, database, storage, application development, analytics, game development, security, etc. **AWS** offers you free trials for many of its product services after you sign in to **AWS**.
 
-![AWS](images/graphoc.png)
+![AWS](https://github.com/NagendraHV/markdown/blob/b4f0fbc5ce355d41b8d9f46b408f79e0f80f36ba/images/graphoc.png)
 
 
 **Popular featured services of AWS**
@@ -110,15 +110,6 @@ Let us select **Personal – for your own projects**.
 Your **AWS** account is created and **MFA** is activated.	
 	
 
-
-
-
-
-
-
-
-
-
 ### Sign in to your AWS console
 You can sign in to your **AWS** console using email address, password, and **MFA** PassKey.
 
@@ -141,3 +132,5 @@ To sign in,
 ![AWS](https://github.com/NagendraHV/markdown/blob/077ba938087a218dbc629459799c02fac6f68b62/images/sign%20in4.png)
 ![AWS](https://github.com/NagendraHV/markdown/blob/077ba938087a218dbc629459799c02fac6f68b62/images/aws12.png)
 AWS Console page is displayed
+### **Related links**
+  [Documentation guides](https://docs.aws.amazon.com/?nc2=h_ql_exm_doc)
