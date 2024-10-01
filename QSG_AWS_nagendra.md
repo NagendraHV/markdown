@@ -13,7 +13,7 @@
 **Amazon Web Services** (AWS) is the leading cloud computing platform and it provides over 200 cloud services like computing, storage, database, etc over the internet. It is suitable for start-ups and large enterprises and is secure and cost-effective as you only need to pay as you use the services.
 
 **AWS** provides services for many kinds of products and it is popular for its services like computing, database, storage, application development, analytics, game development, security, etc. **AWS** offers you free trials for many of its product services after you sign in to **AWS**.
-![AWS]()
+![AWS](https://github.com/NagendraHV/markdown/blob/f165b436150e0fd52bebda64fe846aeea8c85187/images/graphoc.png)
 
 
 **Popular featured services of AWS**
