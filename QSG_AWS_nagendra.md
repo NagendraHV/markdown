@@ -4,7 +4,7 @@
 
 ## TOC
 1. [Overview of AWS Cloud](https://github.com/NagendraHV/markdown/blob/main/QSG_AWS_nagendra.md#overview-of-aws-cloud)
-2. [Getting started with AWS](https://github.com/NagendraHV/markdown/edit/main/QSG_AWS_nagendra.md#getting-started-with-aws)
+2. [Getting started with AWS](https://github.com/NagendraHV/markdown/blob/main/QSG_AWS_nagendra.md#getting-started-with-aws)
 
 	* [Create a new account](https://github.com/NagendraHV/markdown/edit/main/QSG_AWS_nagendra.md#create-a-new-account)
 	* [Sign in to your AWS console](https://github.com/NagendraHV/markdown/edit/main/QSG_AWS_nagendra.md#sign-in-to-your-aws-console)	
