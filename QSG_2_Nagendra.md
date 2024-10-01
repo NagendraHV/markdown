@@ -41,7 +41,6 @@ AWS provides services for many kinds of products and it is popular for its servi
 
 * It offers a free trial for most of the services.
 
-##  Setting up AWS account
+## Getting started with AWS
 ### Create a new account
-### Sign in to your AWS account
-![AWS](https://github.com/NagendraHV/markdown/blob/b8be5270ddd303c399283487bf445f93a674a532/images/AWS0.png)
+### Sign in to your AWS console
