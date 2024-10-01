@@ -3,16 +3,18 @@
 ![AWS](https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg)
 
 ## TOC
-[Overview of AWS Cloud](https://github.com/NagendraHV/markdown/edit/main/QSG_AWS_nagendra.md#overview-of-aws-cloud)
-[Getting started with AWS](https://github.com/NagendraHV/markdown/edit/main/QSG_AWS_nagendra.md#getting-started-with-aws)
-* [Create a new account](https://github.com/NagendraHV/markdown/edit/main/QSG_AWS_nagendra.md#create-a-new-account)
-* [Sign in to your AWS console](https://github.com/NagendraHV/markdown/edit/main/QSG_AWS_nagendra.md#sign-in-to-your-aws-console)	
+1. [Overview of AWS Cloud](https://github.com/NagendraHV/markdown/edit/main/QSG_AWS_nagendra.md#overview-of-aws-cloud)
+2. [Getting started with AWS](https://github.com/NagendraHV/markdown/edit/main/QSG_AWS_nagendra.md#getting-started-with-aws)
+
+	* [Create a new account](https://github.com/NagendraHV/markdown/edit/main/QSG_AWS_nagendra.md#create-a-new-account)
+	* [Sign in to your AWS console](https://github.com/NagendraHV/markdown/edit/main/QSG_AWS_nagendra.md#sign-in-to-your-aws-console)	
 	
 ## Overview of AWS Cloud
 
 **Amazon Web Services** (AWS) is the leading cloud computing platform and it provides over 200 cloud services like computing, storage, database, etc over the internet. It is suitable for start-ups and large enterprises and is secure and cost-effective as you only need to pay as you use the services.
 
 **AWS** provides services for many kinds of products and it is popular for its services like computing, database, storage, application development, analytics, game development, security, etc. **AWS** offers you free trials for many of its product services after you sign in to **AWS**.
+
 ![AWS](https://github.com/NagendraHV/markdown/blob/f165b436150e0fd52bebda64fe846aeea8c85187/images/graphoc.png)
 
 
