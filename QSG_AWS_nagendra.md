@@ -1,4 +1,3 @@
-
 # AWS Cloud Quick Start Guide
 ![AWS](https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg)
 
