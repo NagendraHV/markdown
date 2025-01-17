@@ -42,7 +42,7 @@
 * It helps you manage your resources more efficiently.
 
 * It offers a free trial for most of the services.
-
+----------------------
 ## Getting started with AWS
 **AWS  Cloud** offers many services that you can access with an **AWS** account. You need to create a new free tier account and sign in to your **AWS** account to use the service.
 ### Create a new account
